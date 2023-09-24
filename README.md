@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Student**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Swift, IOS**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **huutoan2603@gmail.com**
 
