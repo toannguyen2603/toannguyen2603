@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nguyen Huu Toan</h1>
-<h3 align="center">A energetic and enthusiastic IOS developer from Vietnam</h3>
+<h3 align="center">A energetic and enthusiastic Java developer from Vietnam</h3>
 
 - 🔭 I’m currently working on **Student**
 
